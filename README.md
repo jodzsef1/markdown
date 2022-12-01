@@ -1,2 +1,2 @@
 # markdown
-Ismerkedés az .mdállományokkal
+Ismerkedés az .md állományokkal
